@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RCqSOrLq/K5XOnuKHIPmx7ub44Q8yLSCF4/Ty6BoWpwYMrRKNZqW+yGlDhuVKSsJ4S0MjrvV0Y56rAv3D6b1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fedori4\\Desktop\\hackatonfrontend\\KudosShop_Front-End.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fedori4\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\5.0.8\\microsoft.aspnetcore.spaservices.extensions.5.0.8.nupkg.sha512",
+    "C:\\Users\\Fedori4\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fedori4\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\5.0.0\\microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fedori4\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "C:\\Users\\Fedori4\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
